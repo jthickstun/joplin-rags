@@ -7,6 +7,7 @@
 !!!OMD: Tempo di Marcia
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1
+*Ipiano	*Ipiano	*Ipiano
 *clefF4	*clefG2	*clefG2
 *>[I,A,A1,A,A2,B,B1,B,B2,C,C1,C,C2,D,E,E1,E,E2]	*>[I,A,A1,A,A2,B,B1,B,B2,C,C1,C,C2,D,E,E1,E,E2]	*>[I,A,A1,A,A2,B,B1,B,B2,C,C1,C,C2,D,E,E1,E,E2]
 *>norep[I,A,A2,B,B2,C,C2,D,E,E2]	*>norep[I,A,A2,B,B2,C,C2,D,E,E2]	*>norep[I,A,A2,B,B2,C,C2,D,E,E2]
